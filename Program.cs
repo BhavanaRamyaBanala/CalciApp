@@ -10,3 +10,5 @@ Console.WriteLine("** Div Call **");
 calc.Div(28,14);
 Console.WriteLine("** Sub Call **");
 calc.Sub(40,15);
+Console.WriteLine("** Avg Call **");
+calc.Avg(50,25);
