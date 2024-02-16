@@ -15,7 +15,7 @@ namespace CalciApp
         }
         public void Sub(double n1, double n2)
         {
-            Console.WriteLine("Result after Subtraction: \t" + (n1 - n2));
+            Console.WriteLine("Result after Subtraction:\t" + (n1 - n2));
         }
         public void Mul(double n1, double n2)
         {

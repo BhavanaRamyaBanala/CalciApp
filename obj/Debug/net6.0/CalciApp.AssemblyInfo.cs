@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalciApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd0d8dc4e89e35117acc33b55b79cbb0c04ba57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49d7a9959b779c5e454cbb6b4d023709fbb9bf43")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalciApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalciApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
