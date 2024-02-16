@@ -1,0 +1,15 @@
+D:\dotNet\Testing\CalciApp\CalciApp\bin\Debug\net6.0\CalciApp.exe
+D:\dotNet\Testing\CalciApp\CalciApp\bin\Debug\net6.0\CalciApp.deps.json
+D:\dotNet\Testing\CalciApp\CalciApp\bin\Debug\net6.0\CalciApp.runtimeconfig.json
+D:\dotNet\Testing\CalciApp\CalciApp\bin\Debug\net6.0\CalciApp.dll
+D:\dotNet\Testing\CalciApp\CalciApp\bin\Debug\net6.0\CalciApp.pdb
+D:\dotNet\Testing\CalciApp\CalciApp\obj\Debug\net6.0\CalciApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\Testing\CalciApp\CalciApp\obj\Debug\net6.0\CalciApp.AssemblyInfoInputs.cache
+D:\dotNet\Testing\CalciApp\CalciApp\obj\Debug\net6.0\CalciApp.AssemblyInfo.cs
+D:\dotNet\Testing\CalciApp\CalciApp\obj\Debug\net6.0\CalciApp.csproj.CoreCompileInputs.cache
+D:\dotNet\Testing\CalciApp\CalciApp\obj\Debug\net6.0\CalciApp.sourcelink.json
+D:\dotNet\Testing\CalciApp\CalciApp\obj\Debug\net6.0\CalciApp.dll
+D:\dotNet\Testing\CalciApp\CalciApp\obj\Debug\net6.0\refint\CalciApp.dll
+D:\dotNet\Testing\CalciApp\CalciApp\obj\Debug\net6.0\CalciApp.pdb
+D:\dotNet\Testing\CalciApp\CalciApp\obj\Debug\net6.0\CalciApp.genruntimeconfig.cache
+D:\dotNet\Testing\CalciApp\CalciApp\obj\Debug\net6.0\ref\CalciApp.dll
