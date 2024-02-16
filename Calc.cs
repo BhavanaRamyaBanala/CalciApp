@@ -19,7 +19,7 @@ namespace CalciApp
         }
         public void Mul(double n1, double n2)
         {
-            Console.WriteLine("Result after Multiplication: \t" + (n1 * n2));
+            Console.WriteLine("Result after Multiplication:\t" + (n1 * n2));
         }
         public void Div(double n1, double n2)
         {
